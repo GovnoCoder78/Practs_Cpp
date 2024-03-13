@@ -51,7 +51,7 @@ int main() {
 
     fillArray(arr, rows, cols);
 
-    cout << "Unsorted array:" << endl;
+    cout << "неотсортированный массив:" << endl;
     printArray(arr, rows, cols);
 
     cout << "\nвыберите тип сортировки: " << endl;
@@ -69,7 +69,7 @@ int main() {
 
     unflattenArray(flatArr, arr, rows, cols);
 
-    cout << "\nSorted array:" << endl;
+    cout << "\nотсортированный массив:" << endl;
     printArray(arr, rows, cols);
 
     return 0;

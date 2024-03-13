@@ -1,3 +1,3 @@
-/Users/mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/pract25.dir
-/Users/mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/pract25.dir
+/Users/Mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Mak/Desktop/C++/CLionProjects/pract25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
